@@ -36,6 +36,16 @@ union() {
     rotate([90,0,90])
     translate([162, -19, 64])
     import("tracks.stl");
+    
+    scale([1.5, 1.5, 1.5])
+    rotate([0,0,90])
+    translate([70, -45, 50])
+    import("palav2-2.stl");
+    
+    scale([1.5, 1.5, 1.5])
+    rotate([0,0,90])
+    translate([70, -45, 50])
+    import("soporte_servos.stl");
 }
 
 translate([-190, 180/2 + box_width/2, 0])
