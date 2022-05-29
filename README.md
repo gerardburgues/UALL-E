@@ -3,8 +3,11 @@
 # Table of Contents
    * [What is this?](#what-is-this)
    * [Requirements](#requirements)
-   * [Documentation](#documentation)
-   * [How to use](#how-to-use)
+   * [Electronic components](#electronic-components)
+   * [Hardware schematics](#hardware-schematics)
+   * [Software Architecture](#software-architecture)
+   * [3D printed and laser cut parts](#3d-printed-and-laser-cut-parts)
+   * [Amazing contributions](#amazing-contributions)
 
 # What is this?
 
@@ -101,3 +104,12 @@ Unlike the previous projects that have tried something similar to this one, this
 This said, we think that if this idea is successfully implemented the project should have a mark of 10. Because comparing it to the previously done projects it achieves the same results in a more simple, cheap and elegant way; applying knowledge from other areas of study apart from Robotics like Computer Vision and Artificial Intelligence.
 
 As a group, we are aware that the idea is not very original and it's something that has been done before and in a vast amount of different approaches, but we are taking our approach as an opportunity to apply the knowledge we’re acquiring in this and other courses to solve the Litter Picking Robot Problem in a way that doesn’t require many complex sensors or electronics and solves the problem in a very efficient and elegant way.
+
+# Authors
+Jorge Gutiérrez Cordero
+
+Gerard Burgués Llavall
+
+Martin Kaplan
+
+Josep Maria Domingo Catafal
