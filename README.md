@@ -101,13 +101,10 @@ the 3D directory.
 
 # Algorithms
 - YOLOv5: YOLO is an object detection algorithm that divides images into a grid system. Each cell in the grid is responsible for detecting objects within itself.
+![Detection](https://raw.githubusercontent.com/josepmdc/UALL-E/main/img/Detection.png)
+
 - Data Augmentation: To make our dataset bigger we have used horizontal flip. You can see an example in the following image.
 ![dataAug](https://raw.githubusercontent.com/josepmdc/UALL-E/main/img/dataAug.png)
-
-
-# Use-case
-If this project helps your robotics project, please let me know with creating an issue.
-
 
 
 # Amazing contributions
