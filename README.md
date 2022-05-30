@@ -7,6 +7,7 @@
    * [Hardware schematics](#hardware-schematics)
    * [Software Architecture](#software-architecture)
    * [3D printed and laser cut parts](#3d-printed-and-laser-cut-parts)
+   * [Algorithms](#algorithms)
    * [Amazing contributions](#amazing-contributions)
 
 # What is this?
@@ -97,6 +98,12 @@ container.
 # 3D printed and laser cut parts
 You can find all the stl (for 3D printing) and svg (for laser cutting) files on 
 the 3D directory.
+
+# Algorithms
+- YOLOv5: YOLO is an object detection algorithm that divides images into a grid system. Each cell in the grid is responsible for detecting objects within itself.
+- Data Augmentation: To make our dataset bigger we have used horizontal flip. You can see an example in the following image.
+![dataAug](https://raw.githubusercontent.com/josepmdc/UALL-E/main/img/dataAug.png)
+
 
 # Use-case
 If this project helps your robotics project, please let me know with creating an issue.
