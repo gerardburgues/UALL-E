@@ -44,7 +44,7 @@ For DRV8835_motor_drive click the link to install from the original repository
 1. Clone this repo 
 > git clone https://github.com/josepmdc/UALL-E.git
 2. Install requirements 
-> requirements https://github.com/josepmdc/requirements.txt
+> pip install -r requirements.txt
 3. Execute main.py
 > python src/main.py
 
