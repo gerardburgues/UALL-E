@@ -7,7 +7,6 @@
    * [Hardware schematics](#hardware-schematics)
    * [Software Architecture](#software-architecture)
    * [3D printed and laser cut parts](#3d-printed-and-laser-cut-parts)
-   * [Algorithms](#algorithms)
    * [Amazing contributions](#amazing-contributions)
 
 # What is this?
@@ -42,9 +41,12 @@ You can execute pip install -r requirements.txt
 For DRV8835_motor_drive click the link to install from the original repository
 
 # How to use
-1. Clone this repo [git clone](https://github.com/josepmdc/UALL-E.git)
-2. Install requirements [requirements](https://github.com/josepmdc/requirements.txt)
+1. Clone this repo 
+> git clone https://github.com/josepmdc/UALL-E.git
+2. Install requirements 
+> requirements https://github.com/josepmdc/requirements.txt
 3. Execute main.py
+> python src/main.py
 
 # Electronic components
 
@@ -76,6 +78,9 @@ Powerbank
                    objects sometimes. This is the model we ended up using because, 
                    unfortunately our resources are limited and the Mask R-CNN was a bit too 
                     resource hungry.
+                    ![Detection](https://raw.githubusercontent.com/josepmdc/UALL-E/main/img/Detection.png)
+    - **Data Augmentation**: To make our dataset bigger we have used horizontal flip. You can see an example in the following image.
+              ![dataAug](https://raw.githubusercontent.com/josepmdc/UALL-E/main/img/dataAug.png)
 
 - **Movement**: The module that controls the wheels and movement of the robot 
 tracing two kinds of routes: the continuous route inside the working boundaries 
@@ -101,14 +106,6 @@ container.
 # 3D printed and laser cut parts
 You can find all the stl (for 3D printing) and svg (for laser cutting) files on 
 the 3D directory.
-
-# Algorithms
-- YOLOv5: YOLO is an object detection algorithm that divides images into a grid system. Each cell in the grid is responsible for detecting objects within itself.
-![Detection](https://raw.githubusercontent.com/josepmdc/UALL-E/main/img/Detection.png)
-
-- Data Augmentation: To make our dataset bigger we have used horizontal flip. You can see an example in the following image.
-![dataAug](https://raw.githubusercontent.com/josepmdc/UALL-E/main/img/dataAug.png)
-
 
 # Amazing contributions
 
