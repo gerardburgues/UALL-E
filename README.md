@@ -42,7 +42,7 @@ Python 3 with the following libraries need to be installed in order to run the p
 # How to use
 1. Clone this repo 
 > git clone https://github.com/josepmdc/UALL-E.git
-2. Install requirements (**For DRV8835_motor_drive click the link to install from the original repository**)
+2. Install requirements
 > pip install -r requirements.txt
 3. Execute main.py
 > python src/main.py
@@ -50,15 +50,14 @@ Python 3 with the following libraries need to be installed in order to run the p
 # Electronic components
 
 This is the list of the used components:
-Motor DC x2
-Controlador Motor DC
-Servo Motor x2
-Controlador Servos
-Raspberry Pi 3 B+
-Webcam
-Porta pilas 12V
-Porta pilas 6V
-Powerbank
+- DC Motor x2
+- DC Motor Controller
+- Servo Motor x2
+- Servo Controller
+- Raspberry Pi 4
+- Webcam
+- Battery holder 6V
+- Powerbank
 
 # Hardware schematics
 ![circuit](https://raw.githubusercontent.com/josepmdc/UALL-E/main/img/circuit.png)
