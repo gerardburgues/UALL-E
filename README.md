@@ -37,6 +37,11 @@ Python 3 with the following libraries need to be installed in order to run the p
 
 - [Pytorch](https://pytorch.org/)
 
+# How to use
+1. Clone this repo [git clone](https://github.com/josepmdc/UALL-E.git)
+3. Install requirements
+4. Execute main.py
+5. 
 # Electronic components
 
 This is the list of the used components:
@@ -93,6 +98,11 @@ container.
 You can find all the stl (for 3D printing) and svg (for laser cutting) files on 
 the 3D directory.
 
+# Use-case
+If this project helps your robotics project, please let me know with creating an issue.
+
+
+
 # Amazing contributions
 
 Unlike the previous projects that have tried something similar to this one, this project has some unique amazing contributions:
@@ -104,6 +114,10 @@ Unlike the previous projects that have tried something similar to this one, this
 This said, we think that if this idea is successfully implemented the project should have a mark of 10. Because comparing it to the previously done projects it achieves the same results in a more simple, cheap and elegant way; applying knowledge from other areas of study apart from Robotics like Computer Vision and Artificial Intelligence.
 
 As a group, we are aware that the idea is not very original and it's something that has been done before and in a vast amount of different approaches, but we are taking our approach as an opportunity to apply the knowledge we’re acquiring in this and other courses to solve the Litter Picking Robot Problem in a way that doesn’t require many complex sensors or electronics and solves the problem in a very efficient and elegant way.
+
+# Final Pressentation
+Here you can find the video of our robot. 
+
 
 # Authors
 Jorge Gutiérrez Cordero
