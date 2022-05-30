@@ -1,0 +1,5 @@
+numpy
+opencv-python
+adafruit-circuitpython-servokit
+pandas
+torch
