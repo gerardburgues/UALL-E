@@ -37,13 +37,12 @@ Python 3 with the following libraries need to be installed in order to run the p
 
 - [Pytorch](https://pytorch.org/)
 
-You can execute pip install -r requirements.txt
-For DRV8835_motor_drive click the link to install from the original repository
+
 
 # How to use
 1. Clone this repo 
 > git clone https://github.com/josepmdc/UALL-E.git
-2. Install requirements 
+2. Install requirements (**For DRV8835_motor_drive click the link to install from the original repository**)
 > pip install -r requirements.txt
 3. Execute main.py
 > python src/main.py
