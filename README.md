@@ -1,6 +1,6 @@
 # UALL-E
 
-<img src="https://raw.githubusercontent.com/josepmdc/UALL-E/main/img/design.png" align="right" width="500" alt="header pic"/>
+<img src="https://raw.githubusercontent.com/josepmdc/UALL-E/main/img/design.png" align="right" width="400" alt="header pic"/>
 
 # Table of Contents
    * [What is this?](#what-is-this)
