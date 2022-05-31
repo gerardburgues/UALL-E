@@ -1,5 +1,7 @@
 # UALL-E
 
+<img src="https://raw.githubusercontent.com/josepmdc/UALL-E/main/img/design.png" align="right" width="500" alt="header pic"/>
+
 # Table of Contents
    * [What is this?](#what-is-this)
    * [Requirements](#requirements)
@@ -8,6 +10,8 @@
    * [Software Architecture](#software-architecture)
    * [3D printed and laser cut parts](#3d-printed-and-laser-cut-parts)
    * [Amazing contributions](#amazing-contributions)
+   * [Video Demo](#video-demo)
+   * [Authors](#authors)
 
 # What is this?
 
@@ -117,8 +121,10 @@ This said, we think that if this idea is successfully implemented the project sh
 
 As a group, we are aware that the idea is not very original and it's something that has been done before and in a vast amount of different approaches, but we are taking our approach as an opportunity to apply the knowledge we’re acquiring in this and other courses to solve the Litter Picking Robot Problem in a way that doesn’t require many complex sensors or electronics and solves the problem in a very efficient and elegant way.
 
-# Final Pressentation
-Here you can find the video of our robot. 
+# Video Demo
+Here you can find the video of our robot in action.
+
+[![Video of UALL-E in action](https://img.youtube.com/vi/Be-CDXhjkHY/0.jpg)](https://www.youtube.com/watch?v=Be-CDXhjkHY)
 
 
 # Authors
